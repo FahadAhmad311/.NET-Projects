@@ -1,0 +1,14 @@
+C:\AspireTest\MyFirstAspireApp.ServiceDefaults\bin\Debug\net10.0\MyFirstAspireApp.ServiceDefaults.deps.json
+C:\AspireTest\MyFirstAspireApp.ServiceDefaults\bin\Debug\net10.0\MyFirstAspireApp.ServiceDefaults.runtimeconfig.json
+C:\AspireTest\MyFirstAspireApp.ServiceDefaults\bin\Debug\net10.0\MyFirstAspireApp.ServiceDefaults.dll
+C:\AspireTest\MyFirstAspireApp.ServiceDefaults\bin\Debug\net10.0\MyFirstAspireApp.ServiceDefaults.pdb
+C:\AspireTest\MyFirstAspireApp.ServiceDefaults\obj\Debug\net10.0\MyFirstAspireApp.ServiceDefaults.csproj.AssemblyReference.cache
+C:\AspireTest\MyFirstAspireApp.ServiceDefaults\obj\Debug\net10.0\MyFirstAspireApp.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\AspireTest\MyFirstAspireApp.ServiceDefaults\obj\Debug\net10.0\MyFirstAspireApp.ServiceDefaults.AssemblyInfoInputs.cache
+C:\AspireTest\MyFirstAspireApp.ServiceDefaults\obj\Debug\net10.0\MyFirstAspireApp.ServiceDefaults.AssemblyInfo.cs
+C:\AspireTest\MyFirstAspireApp.ServiceDefaults\obj\Debug\net10.0\MyFirstAspireApp.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\AspireTest\MyFirstAspireApp.ServiceDefaults\obj\Debug\net10.0\MyFirstAspireApp.ServiceDefaults.dll
+C:\AspireTest\MyFirstAspireApp.ServiceDefaults\obj\Debug\net10.0\refint\MyFirstAspireApp.ServiceDefaults.dll
+C:\AspireTest\MyFirstAspireApp.ServiceDefaults\obj\Debug\net10.0\MyFirstAspireApp.ServiceDefaults.pdb
+C:\AspireTest\MyFirstAspireApp.ServiceDefaults\obj\Debug\net10.0\MyFirstAspireApp.ServiceDefaults.genruntimeconfig.cache
+C:\AspireTest\MyFirstAspireApp.ServiceDefaults\obj\Debug\net10.0\ref\MyFirstAspireApp.ServiceDefaults.dll
